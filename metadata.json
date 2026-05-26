@@ -1,0 +1,6 @@
+{
+  "name": "FinVest",
+  "description": "Fintech d'investissement et de trading automatisé avec console d'administration paritaire.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

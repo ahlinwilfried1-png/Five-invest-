@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+
+    <!-- Outward trending growth arrow / geometric chart lines -->
+    <path
+        android:fillColor="#10B981"
+        android:pathData="M34,44 L54,28 L68,38 L84,18 L84,28 L82.5,28.5 L84,28 M84,18 L74,18 L74,19.5" />
+
+    <path
+        android:fillColor="#F59E0B"
+        android:pathData="M30,72 C30,76 34,80 38,80 L70,80 C74,80 78,76 78,72 L78,54 C78,50 74,46 70,46 L38,46 C34,46 30,50 30,54 Z" />
+
+    <!-- Coin details -->
+    <path
+        android:fillColor="#131A26"
+        android:pathData="M66,63 C66,66.86 62.86,70 59,70 C55.14,70 52,66.86 52,63 C52,59.14 55.14,56 59,56 C62.86,56 66,59.14 66,63 Z" />
+
+    <path
+        android:fillColor="#F59E0B"
+        android:pathData="M62,63 C62,64.65 60.65,66 59,66 C57.35,66 56,64.65 56,63 C56,61.35 57.35,60 59,60 C60.65,60 62,61.35 62,63 Z" />
+</vector>
